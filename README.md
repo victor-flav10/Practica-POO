@@ -1,7 +1,7 @@
 # Practica-POO
 Practicas en clase de la Programación Orientada a Objetos
 
-Problema 1: Herencia Básica y Visibilidad
+*Problema 1: Herencia Básica y Visibilidad*
 
 Archivos: Coche.php, CocheDeLujo.php
 Este ejercicio demuestra cómo una clase hija (CocheDeLujo) hereda atributos y métodos de una clase padre (Coche) utilizando la palabra reservada extends.
